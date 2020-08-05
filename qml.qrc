@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/AppIcon.qml</file>
+        <file>qml/views/MainView.qml</file>
+        <file>assets/fonts/fontawesome.otf</file>
+        <file>qml/components/NavigationBar.qml</file>
+        <file>qml/components/NavigationButton.qml</file>
+        <file>qml/views/CategoryView.qml</file>
+        <file>qml/views/HomeView.qml</file>
+        <file>qml/views/FavouriteView.qml</file>
+        <file>qml/views/RoomsView.qml</file>
+        <file>qml/components/RoundProgressbar.qml</file>
+        <file>qml/components/TopBar.qml</file>
+        <file>qml/components/MenuButton.qml</file>
+        <file>assets/images/icon.png</file>
+        <file>assets/images/bg.jpeg</file>
+        <file>qml/components/CircularProgressbar.qml</file>
+        <file>qml/components/RoomItem.qml</file>
+        <file>qml/components/CategoryItem.qml</file>
+        <file>qml/models/CategoryModel.qml</file>
+        <file>qml/models/RoomsModel.qml</file>
+        <file>qml/components/FavouritesItem.qml</file>
+        <file>qml/models/FavouritesModel.qml</file>
+        <file>qml/components/SettingsDrawer.qml</file>
+    </qresource>
+</RCC>
